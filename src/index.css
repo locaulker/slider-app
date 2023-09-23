@@ -433,7 +433,7 @@ ul {
 }
 
 /* ============= Slick Carousel =============== */
-/* 
+
 .slick-container {
   margin: 0 auto;
   margin-top: 10rem;
@@ -450,4 +450,7 @@ ul {
 }
 .slick-next::before {
   color: var(--primary-500) !important;
-} */
+}
+.slick-dots {
+  bottom: -35px;
+}
